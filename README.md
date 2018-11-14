@@ -1,3 +1,3 @@
 # nova-gmap
 
-Test
+Allow to pick latitude and longitude from Google Map
